@@ -1,0 +1,12 @@
+the difference for each data to mean is : [0, 1, 2, 4, 0, 1, -1, 1, 0, 2, -1] 
+ 
+ the most coming data and number its comes is : ModeResult(mode=2, count=3) 
+
+ the center of the data is : 3.0 
+ 
+ the mean of the data is : 2.8182 
+ 
+ tne sum of the data is 31 
+
+ the prod of the data is : 20736 
+ 

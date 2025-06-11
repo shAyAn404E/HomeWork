@@ -1,0 +1,7 @@
+https://www.kaggle.com/datasets/prasad22/healthcare-dataset
+
+
+
+هدف ها :
+
+تاثیر چیز هایه مختلف تو گرفتن بیماری ها 
